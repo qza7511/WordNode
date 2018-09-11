@@ -1,6 +1,4 @@
-package com.hnu.lzx;
-
-import com.hnu.lzx.SensitiveWordInit;
+package com.hnu.lzx.Filter;
 
 import java.util.HashSet;
 import java.util.Iterator;

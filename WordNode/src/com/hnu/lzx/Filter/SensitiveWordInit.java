@@ -1,4 +1,4 @@
-package com.hnu.lzx;
+package com.hnu.lzx.Filter;
 
 import java.io.BufferedReader;
 import java.io.File;
